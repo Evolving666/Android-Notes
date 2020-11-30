@@ -49,7 +49,7 @@
 
 #### 示意图
 
-![](E:\OneDrive\markdown-pic\activity_lifecycle.png)
+![](https://github.com/Evolving666/Android-Notes/blob/master/activity_lifecycle.png)
 
 ### 活动被回收了怎么办
 
